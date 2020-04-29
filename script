@@ -56,7 +56,7 @@ body li {
         
         body ul li a {
     display: block;
-    color: #15c;
+    color: #193776;
     transition: all .2s ease;
     text-decoration: none;
     font-weight: 500;
@@ -68,7 +68,7 @@ body li {
         }
         
         body ul li:hover a.relinkjdulx {
-            color: #EA4335
+            color: #222
         }
         
 body ul li img {
@@ -160,5 +160,4 @@ body ul li img {
     </ul>
     <div class='copy'>Related post by <a href='https://www.toptrickstips.com' target='_blank'>Tricks and Tips</div>
 </body>
-
 </HTML>
